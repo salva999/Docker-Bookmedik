@@ -1,0 +1,90 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 12:20:53.643490 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 12:20:53.643650 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 12:24:02.039405 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 12:24:02.039486 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 12:32:52.790514 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 12:32:52.790569 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 20 12:33:00.196011 2019] [autoindex:error] [pid 9] [client 172.22.3.229:38496] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:33:03.097886 2019] [autoindex:error] [pid 9] [client 172.22.3.229:38496] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:33:49.743160 2019] [autoindex:error] [pid 10] [client 172.22.3.229:38498] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:33:57.313710 2019] [autoindex:error] [pid 11] [client 172.22.3.229:38500] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:34:33.435964 2019] [mpm_prefork:notice] [pid 8] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 12:34:33.480973 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 12:34:33.480983 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 20 12:34:38.214152 2019] [autoindex:error] [pid 57] [client 172.22.3.229:38504] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:34:38.729216 2019] [autoindex:error] [pid 57] [client 172.22.3.229:38504] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:34:38.980834 2019] [autoindex:error] [pid 57] [client 172.22.3.229:38504] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:34:39.159770 2019] [autoindex:error] [pid 57] [client 172.22.3.229:38504] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:34:39.273089 2019] [autoindex:error] [pid 57] [client 172.22.3.229:38504] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:34:39.544735 2019] [autoindex:error] [pid 57] [client 172.22.3.229:38504] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:34:40.500451 2019] [autoindex:error] [pid 57] [client 172.22.3.229:38504] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:34:41.934138 2019] [autoindex:error] [pid 57] [client 172.22.3.229:38504] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 12:34:47.588854 2019] [autoindex:error] [pid 58] [client 172.22.3.229:38506] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 13:25:37.715005 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 13:25:37.715076 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 20 13:26:24.694217 2019] [autoindex:error] [pid 12] [client 172.22.3.229:39014] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 13:32:31.417258 2019] [mpm_prefork:notice] [pid 8] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 13:32:31.446992 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 13:32:31.447002 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 20 13:32:39.588506 2019] [autoindex:error] [pid 49] [client 172.22.3.229:39024] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 13:32:40.453687 2019] [autoindex:error] [pid 49] [client 172.22.3.229:39024] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 13:35:08.167928 2019] [:error] [pid 50] [client 172.22.3.229:39036] script '/var/www/html/index.php' not found or unable to stat
+[Wed Feb 20 13:36:39.797268 2019] [mpm_prefork:notice] [pid 8] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 13:36:39.861946 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 13:36:39.861954 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 20 13:36:42.451831 2019] [:error] [pid 153] [client 172.22.3.229:39042] script '/var/www/html/index.php' not found or unable to stat
+[Wed Feb 20 13:36:45.962612 2019] [autoindex:error] [pid 153] [client 172.22.3.229:39042] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 13:36:52.200815 2019] [autoindex:error] [pid 154] [client 172.22.3.229:39044] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 13:39:46.039545 2019] [core:warn] [pid 8] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 20 13:39:46.041285 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 13:39:46.041312 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 20 13:39:51.322006 2019] [autoindex:error] [pid 9] [client 172.22.3.229:39054] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 13:39:58.997573 2019] [autoindex:error] [pid 10] [client 172.22.3.229:39056] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 13:41:33.867573 2019] [autoindex:error] [pid 11] [client 172.22.3.229:39060] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 13:42:15.140578 2019] [mpm_prefork:notice] [pid 8] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 13:42:15.167836 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 13:42:15.167848 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 16:41:30.619498 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 16:41:30.620151 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 20 16:41:57.098548 2019] [autoindex:error] [pid 9] [client 192.168.100.174:41952] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 16:42:02.849938 2019] [:error] [pid 10] [client 192.168.100.174:41954] script '/var/www/html/index.php' not found or unable to stat
+[Wed Feb 20 16:43:58.739192 2019] [mpm_prefork:notice] [pid 8] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 16:43:58.766219 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 16:43:58.766229 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 20 16:44:03.545945 2019] [:error] [pid 49] [client 192.168.100.174:42058] script '/var/www/html/index.php' not found or unable to stat
+[Wed Feb 20 16:44:04.709970 2019] [:error] [pid 49] [client 192.168.100.174:42058] script '/var/www/html/index.php' not found or unable to stat
+[Wed Feb 20 16:44:04.859596 2019] [:error] [pid 49] [client 192.168.100.174:42058] script '/var/www/html/index.php' not found or unable to stat
+[Wed Feb 20 16:44:04.988416 2019] [:error] [pid 49] [client 192.168.100.174:42058] script '/var/www/html/index.php' not found or unable to stat
+[Wed Feb 20 16:44:05.138132 2019] [:error] [pid 49] [client 192.168.100.174:42058] script '/var/www/html/index.php' not found or unable to stat
+[Wed Feb 20 16:44:07.374673 2019] [autoindex:error] [pid 49] [client 192.168.100.174:42058] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Feb 20 16:45:37.575829 2019] [mpm_prefork:notice] [pid 8] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 16:45:37.612759 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 16:45:37.612768 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 20 16:52:27.947380 2019] [mpm_prefork:notice] [pid 8] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 16:52:27.982928 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 16:52:27.982942 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 17:13:25.035716 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 17:13:25.036029 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 17:17:00.674114 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 17:17:00.674172 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 17:25:19.910924 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 17:25:19.911006 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 20 17:50:21.097165 2019] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.0.33 configured -- resuming normal operations
+[Wed Feb 20 17:50:21.097221 2019] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'

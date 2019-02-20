@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+
+  database:
+    image: mariadb:latest
+    volumes:
+      - ./voldatabase:/var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=bookmedik
+      - MYSQL_USER=salva
+      - MYSQL_PASSWORD=9953
+    container_name: database
+
+  servidorweb:
+    build: ./php-apache
+    ports:
+      - "80:80"
+    links:
+      - database
+    volumes:
+      - ./volservidorweb:/var/log/apache2
+    environment:
+      - MYSQL_DATABASE=bookmedik
+      - MYSQL_USER=salva
+      - MYSQL_PASSWORD=9953
+    depends_on:
+      - database
+    container_name: servidorweb
